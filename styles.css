@@ -1,7 +1,9 @@
+
 .container {
   width: 70%;
   margin: auto;
   text-align: center;
+  
 }
 
 .dice {
@@ -38,4 +40,14 @@ footer {
   text-align: center;
   font-family: 'Indie Flower', cursive;
 
+}
+
+#refreshButton {
+  margin-top: 50px;
+  display: block; 
+  margin-left: auto; 
+  margin-right: auto;
+  background-color: black;
+  color: white;
+  font-size: 2rem;
 }
